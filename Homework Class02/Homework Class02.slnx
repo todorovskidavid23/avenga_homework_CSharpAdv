@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Task #1 - Searchable/Task #1 - Searchable.csproj" />
+  <Project Path="Task #2 - Shape interface/Task #2 - Shape interface.csproj" />
+  <Project Path="Task #3 - Shape abstract class/Task #3 - Shape abstract class.csproj" />
+  <Project Path="Task #4 - Employee abstract class/Task #4 - Employee abstract class.csproj" />
+</Solution>
